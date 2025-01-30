@@ -1,0 +1,146 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\mukta\\anaconda3\\pkgs\\cachetools-5.3.3-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/cachetools-5.3.3.dist-info/INSTALLER",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/LICENSE",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/METADATA",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/RECORD",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/REQUESTED",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/WHEEL",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/direct_url.json",
+    "Lib/site-packages/cachetools-5.3.3.dist-info/top_level.txt",
+    "Lib/site-packages/cachetools/__init__.py",
+    "Lib/site-packages/cachetools/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/cachetools/__pycache__/func.cpython-312.pyc",
+    "Lib/site-packages/cachetools/__pycache__/keys.cpython-312.pyc",
+    "Lib/site-packages/cachetools/func.py",
+    "Lib/site-packages/cachetools/keys.py",
+    ".nonadmin"
+  ],
+  "fn": "cachetools-5.3.3-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\mukta\\anaconda3\\pkgs\\cachetools-5.3.3-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "2a78074fbd6050f97f290c579b21c93c",
+  "name": "cachetools",
+  "package_tarball_full_path": "C:\\Users\\mukta\\anaconda3\\pkgs\\cachetools-5.3.3-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/cachetools-5.3.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/cachetools-5.3.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "2f4d2ff05f05c5da3879f40292b7600332d775dc7ed320d43dd42f3cd7d92c9b",
+        "sha256_in_prefix": "2f4d2ff05f05c5da3879f40292b7600332d775dc7ed320d43dd42f3cd7d92c9b",
+        "size_in_bytes": 1085
+      },
+      {
+        "_path": "Lib/site-packages/cachetools-5.3.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "26c809bc5d76fbda3e124260f26767027f5a1e52549c65d972ae2600fa0aff56",
+        "sha256_in_prefix": "26c809bc5d76fbda3e124260f26767027f5a1e52549c65d972ae2600fa0aff56",
+        "size_in_bytes": 5478
+      },
+      {
+        "_path": "Lib/site-packages/cachetools-5.3.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7445e85e8a89e5f30d27731d4626866433886f81c7a5295fb5da5a69e2dfd05a",
+        "sha256_in_prefix": "7445e85e8a89e5f30d27731d4626866433886f81c7a5295fb5da5a69e2dfd05a",
+        "size_in_bytes": 1064
+      },
+      {
+        "_path": "Lib/site-packages/cachetools-5.3.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/cachetools-5.3.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/cachetools-5.3.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "4151c8ed346407d5e8642f81c135ca2bf1b7b92117737ae0c49c216233d00515",
+        "sha256_in_prefix": "4151c8ed346407d5e8642f81c135ca2bf1b7b92117737ae0c49c216233d00515",
+        "size_in_bytes": 90
+      },
+      {
+        "_path": "Lib/site-packages/cachetools-5.3.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "6a2d851fbf131b0a017028157e8a9bce4e48402b670ee91d4ace332ae54fbc3b",
+        "sha256_in_prefix": "6a2d851fbf131b0a017028157e8a9bce4e48402b670ee91d4ace332ae54fbc3b",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/cachetools/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0d73ca9095017dfdd65bcb9f1d2f13539dde3b3959eb0197f865cd007d07bdd9",
+        "sha256_in_prefix": "0d73ca9095017dfdd65bcb9f1d2f13539dde3b3959eb0197f865cd007d07bdd9",
+        "size_in_bytes": 24981
+      },
+      {
+        "_path": "Lib/site-packages/cachetools/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "0c8ac096d9d9bf00430455d4c93cd270d6ae8716581d35f62c9f045cee1bb26a",
+        "sha256_in_prefix": "0c8ac096d9d9bf00430455d4c93cd270d6ae8716581d35f62c9f045cee1bb26a",
+        "size_in_bytes": 40702
+      },
+      {
+        "_path": "Lib/site-packages/cachetools/__pycache__/func.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4606be1927a2e34a4abdfe31783ede664b518967ef082b7a994a4428f5237886",
+        "sha256_in_prefix": "4606be1927a2e34a4abdfe31783ede664b518967ef082b7a994a4428f5237886",
+        "size_in_bytes": 5196
+      },
+      {
+        "_path": "Lib/site-packages/cachetools/__pycache__/keys.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "32ad467b0656910145a0acf10c51de3025a47cf5d24efa74bdabb5e4c5e63073",
+        "sha256_in_prefix": "32ad467b0656910145a0acf10c51de3025a47cf5d24efa74bdabb5e4c5e63073",
+        "size_in_bytes": 2952
+      },
+      {
+        "_path": "Lib/site-packages/cachetools/func.py",
+        "path_type": "hardlink",
+        "sha256": "2b10b0eda921c3e5a496dbec7e0ce42f85c51b1779e2caeaae82b357764fd8e3",
+        "sha256_in_prefix": "2b10b0eda921c3e5a496dbec7e0ce42f85c51b1779e2caeaae82b357764fd8e3",
+        "size_in_bytes": 3616
+      },
+      {
+        "_path": "Lib/site-packages/cachetools/keys.py",
+        "path_type": "hardlink",
+        "sha256": "77e7295b6e7613fb95e74c92970d7721ebdd3509d273431f88c562226424b512",
+        "sha256_in_prefix": "77e7295b6e7613fb95e74c92970d7721ebdd3509d273431f88c562226424b512",
+        "size_in_bytes": 1613
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "02669b90ddc21a5ead883fdf4512bef85d57a9b36df2a605e5c3f0dea5c1ffab",
+  "size": 29343,
+  "subdir": "win-64",
+  "timestamp": 1713977269000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/cachetools-5.3.3-py312haa95532_0.conda",
+  "version": "5.3.3"
+}
