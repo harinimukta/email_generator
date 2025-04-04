@@ -1,20 +1,6 @@
 ✉️ Job Email Generator with Smart Portfolio Matching
 This project is a Streamlit-based web application that generates personalized job outreach emails by scraping job descriptions from company career pages. It intelligently matches your tech portfolio to the job requirements and customizes the emails accordingly. You can optionally send the email via SMTP.
 
-🔍 Key Features
-✅ PDF & URL Chat Assistant
-Upload PDF files or provide a webpage URL.
-
-Ask natural language questions about the content.
-
-Built with Retrieval-Augmented Generation (RAG) using LangChain, Chroma, and ChatGroq.
-
-Includes voice input (speech-to-text) and audio response (text-to-speech).
-
-Maintains multi-session chat history.
-
-Ensures responses are strictly grounded in the document or webpage provided.
-
 ✨ Cold Email Generator
 Scrapes job descriptions from career URLs.
 
